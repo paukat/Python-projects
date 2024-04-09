@@ -6,6 +6,6 @@
 
 
 #### Files related to this project:
-* [Link to project file](https://github.com/paukat/Python-projects/blob/main/Netflix%20top%20movies%20analysis.ipynb)
-* [Link to csv file](https://github.com/paukat/Python-projects/blob/main/100%20Best%20Movies%20on%20Netflix.csv)
+* [Link to project file](https://github.com/paukat/Python-projects/blob/main/Netflix%20top%20movies%20analysis.ipynb);
+* [Link to csv file](https://github.com/paukat/Python-projects/blob/main/100%20Best%20Movies%20on%20Netflix.csv).
 
